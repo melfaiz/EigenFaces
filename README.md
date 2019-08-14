@@ -1,4 +1,4 @@
-# eigenfaces
+# Face Recognition Using Principal Component Analysis Method
 One of the simplest and most effective PCA approaches used
 in face recognition systems is the so-called eigenface
 approach. This approach transforms faces into a small set of
