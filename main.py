@@ -99,7 +99,7 @@ def max_error(train):
 
 max_error = 27000
 
-# name="zineb5"
+# name=""
 # no = ts_labels.index(name)
 # pers = test[no]
 #
